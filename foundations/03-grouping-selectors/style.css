@@ -1,0 +1,12 @@
+.Element-One, .Element-Two {
+    font-size: 35px;
+}
+
+.Element-One {
+    background-color: black;
+    color: white;
+}
+
+.Element-Two {
+    background-color: yellow;
+}
